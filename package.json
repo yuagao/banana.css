@@ -1,0 +1,30 @@
+{
+  "name": "banana.css",
+  "version": "0.0.1",
+  "description": "A css base framework for esri web applications",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-compass": "^1.1.1",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "devDependencies": {
+    "compass": "^0.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuagao/banana.css"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Kevin Gao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuagao/banana.css/issues"
+  },
+  "homepage": "https://github.com/yuagao/banana.css"
+}
